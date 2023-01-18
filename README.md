@@ -1,1 +1,2 @@
-# This is the source code for the paper 'Linking Swedish Learning Materials to Exercises through an AI-enhanced Recommender System' including data pre-processing, data statistics, paragraph-level pooling, SBERT/TF-IDF/ConceptNet/Doc2Vec for embeddings, MANOVA, Visualization.
+# This is the source code for the paper 'Linking Swedish Learning Materials to Exercises through an AI-enhanced Recommender System' 
+
